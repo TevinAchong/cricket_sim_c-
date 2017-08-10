@@ -1,0 +1,22 @@
+Adam 	Gilchrist 	Not_Bowl
+Chris 	Gayle 		Not_Bowl
+Steve 	Waugh 		Bowl
+Dwayne 	Bravo 		Bowl
+Marlon 	Samuels 	Bowl
+Glen 	Maxuel 		Bowl
+Virat 	Kohli 		Not_Bowl
+Aaron 	Finch 		Not_Bowl
+Joe 	Root 		Not_Bowl
+Samuel 	Badree 		Bowl
+Mohammad Shahzad 	Not_Bowl
+Imran 	Tahir 		Bowl 
+Imad 	Wasim 		Bowl
+Jasprit Bumrah 		Bowl
+Rashid 	Khan 		Bowl
+James 	Faulkner 	Bowl
+Jeal-Paul Duminy 	Not_Bowl
+Samiullah Shenwari 	Not_Bowl
+Yuvraj 	Singh 		Not_Bowl
+Mustafizur Rahman 	Bowl
+Hamilton Masakadza 	Not_Bowl
+Martin 	Guptill 	Not Bowl
